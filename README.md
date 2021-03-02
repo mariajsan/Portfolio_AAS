@@ -24,15 +24,8 @@
 
 ---
 
-### :blue_book: Introducción
-
-Durante esta sección el alumno conocerá los temas que se habrá de tratar durante el desarrollo de la materia así como las características de las actividades, y reglas para entrega de actividades de aprendizaje.​ Por lo que es importante conocer la :green_book: [Gestión de curso](docs/D0.0_GestiondelCurso.md) que se habrá de considerar.
-
-- :book: <a href="docs/D0.1_Caso_de_estudio_desarrollo.md" target="black">Caso de estudio a desarrollar</a>
-
----
 
 ### :books: Portafolio de evidencias​
 
-1. :book: [Modelado de requisitos](docs/D1.0_Modelado_requisitos.md)
+1. :book: <a href="blob/main/C01._IntegrarEquiposDeTrabajo_MariaJazminSanabriaLopez.md" target="black">C0.1 Integrar equipos de trabajo</a>
 
