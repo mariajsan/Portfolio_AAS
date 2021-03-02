@@ -27,5 +27,5 @@
 
 ### :books: Portafolio de evidencias​
 
-1. :book: <a href="blob/main/C01._IntegrarEquiposDeTrabajo_MariaJazminSanabriaLopez.md" target="black">C0.1 Integrar equipos de trabajo</a>
+1. :book: <a href="C01._IntegrarEquiposDeTrabajo_MariaJazminSanabriaLopez.md" target="black">C0.1 Integrar equipos de trabajo</a>
 
