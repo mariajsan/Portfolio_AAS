@@ -16,11 +16,10 @@
   
 ---
 
-### :necktie: Datos del asesor de la materia
+### :necktie: Datos del alumno
 
-* Nombre: **Leonardo Enriquez Alvarez**
-* Licenciatura: Ingeniería electrónica, especialidad sistemas digitales
-* Maestría: Tecnologías de la información y comunicación
+* Nombre: **Sanabria López María Jazmín**
+* Licenciatura: Ingeniería informática
 
 
 ---
@@ -33,17 +32,7 @@ Durante esta sección el alumno conocerá los temas que se habrá de tratar dura
 
 ---
 
-### :books: Contenido de la materia​
-
-1. :book: <a href="./docs/D0.3_Introduccion_IngenieriaSoftware.md" target="black">Introducción a la ingeniería de requisitos</a>
-
+### :books: Portafolio de evidencias​
 
 1. :book: [Modelado de requisitos](docs/D1.0_Modelado_requisitos.md)
 
-2. :book: [Especificación y diseño de software](docs/D2.0_Especificacion_requisitos_y_diseno.md)
-
-3. :book: [Metodología Ágil](docs/D3.0_MetodologiaAgil.md)
-
-4. :book: [Código, pruebas y ejecución](docs/D4.0_Codigo_y_ejecucion.md)
-
-Para conocer el temario en detalle seleccione [aquí](pdf/ADF-1702_AnálisisAvanzadoDeSoftware.pdf).
