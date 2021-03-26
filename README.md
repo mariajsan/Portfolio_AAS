@@ -33,4 +33,6 @@
 4. :book: <a href="blog/A0.1_Recopilacion_Entrevista_SanabriaLopezMariaJazmin.md" target="black">A0.1 Recopilación de datos y Entrevista</a>
 
 #### Unidad 2
-1. :book:
+1. :book: <a href="blog/C1.1_ObjetivosGenerales_especificos_SanabriaLopezMariaJazmin.md" target="black">C1.1 Objetivos generales y específicos</a>
+2. 
+3. :book: <a href="blog/C1.3_Requisitos_del_sistema_SanabriaLopezMariaJazmin.md" target="black">C1.3 Requisitos del sistema para el caso de estudio</a>
