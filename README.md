@@ -40,3 +40,6 @@
 5. :book: <a href="blog/C1.4_UML_Casos_de_uso_secuencia_clases_SanabriaLopezMariaJazmin.md" target="black">C1.4 Diagramas de casos de uso</a>
 6. :book: <a href="blog/C1.5_UML_Estado_componentes_distribucion_SanabriaLopezMariaJazmin.md" target="black">C1.5 Diagramas estructurales</a>
 7. :book: <a href="blog/A1.1_Modelado_Requerimientos_SanabriaLopezMariaJazmin.md" target="black">A1.1 Modelado de requerimientos</a>
+
+#### Unidad 3
+1. :book: <a href="blog/C2.1_EspecificacionRequerimientos_Funcionales_SanabriaLopezMariaJazmin.md" target="black">C2.1 Especificación de requerimientos funcionales</a>
