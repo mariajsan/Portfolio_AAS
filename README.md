@@ -43,3 +43,4 @@
 
 #### Unidad 3
 1. :book: <a href="blog/C2.1_EspecificacionRequerimientos_Funcionales_SanabriaLopezMariaJazmin.md" target="black">C2.1 Especificación de requerimientos funcionales</a>
+2. :book: <a href="blog/A2.2_Dise%C3%B1o_de_la_arquitectura_4%2B1SanabriaLopezMariaJazmin.md" target="black">A2.2 Diseño de la arquitectura 4+1</a>
