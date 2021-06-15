@@ -44,3 +44,9 @@
 #### Unidad 3
 1. :book: <a href="blog/C2.1_EspecificacionRequerimientos_Funcionales_SanabriaLopezMariaJazmin.md" target="black">C2.1 Especificación de requerimientos funcionales</a>
 2. :book: <a href="blog/A2.2_Dise%C3%B1o_de_la_arquitectura_4%2B1SanabriaLopezMariaJazmin.md" target="black">A2.2 Diseño de la arquitectura 4+1</a>
+3. :book: <a href="blog/A2.3_Software_ArchitecturePatterns_SanabriaMaria.md" target="black">A2.3 Patrones de arquitectura de software</a>
+
+#### Unidad 4
+1. :book: <a href="blog/A3.1_Documentacion_Scrum_FaseInicio_SanabriaMaria.md" target="black">A3.1 Documentación de SCRUM Fase de Inicio</a>
+2. :book: <a href="blog/A3.2-Start-Phase-and-your-artifact_SanabriaMaria.md" target="black">A3.2 Fase de inicio: Artefactos</a>
+
